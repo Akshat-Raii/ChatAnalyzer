@@ -86,4 +86,21 @@ A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://a
 
 6. **Open a pull request.**: 📥
    
+## Visuals 🎥📸
+
+**Application Images**
+
+![image](https://github.com/user-attachments/assets/f5461ec6-45f6-42bc-9209-3d163c7e541c)
+![image](https://github.com/user-attachments/assets/a34c0ad4-5188-464d-af80-73905602819f)
+![image](https://github.com/user-attachments/assets/c1b58562-b192-41c5-ad9a-281adc0f4056)
+![image](https://github.com/user-attachments/assets/e310e9d7-084f-4bb7-9689-82c34e23c470)
+![image](https://github.com/user-attachments/assets/524b3cde-0a55-4a7f-b5bb-3a6eed98c32f)
+![image](https://github.com/user-attachments/assets/e616d7c5-f22d-45cc-9549-42ab5b9152e4)
+![image](https://github.com/user-attachments/assets/d27098a3-538a-4bf5-8897-617dfdf59227)
+
+
+
+
+
+
 
