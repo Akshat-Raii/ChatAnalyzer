@@ -1,4 +1,4 @@
-# Chat Analyzer
+# Chat Analyzer 💬
 
 Welcome to the **Chat Analyzer**! This tool is designed to help you analyze and visualize statistics from your chat data. It provides insights into messaging patterns, user interactions, and more, using various visualizations and metrics.
 
