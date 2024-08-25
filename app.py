@@ -13,7 +13,7 @@ st.sidebar.title("Dashboard")
 app_mode=st.sidebar.selectbox("Select Page",["Home","Analyze Chat"])
 
 if(app_mode=="Home"):
-    st.title("Chat Analyzer")
+    st.title("Chat Analyzer 💬")
     st.header("Welcome to the Chat Analyzer Dashboard!")
     image_path="Images/496fcdd0116e93963c9737c16662e204.gif"
     st.image(image_path,use_column_width=True) 
