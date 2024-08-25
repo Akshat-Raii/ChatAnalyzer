@@ -2,28 +2,28 @@
 
 Welcome to the **Chat Analyzer**! This tool is designed to help you analyze and visualize statistics from your chat data. It provides insights into messaging patterns, user interactions, and more, using various visualizations and metrics.
 
-## Features
+## Features ✨
 
-- **Upload Chat Data**: Upload chat data in text format.
-- **User Analysis**: View statistics for individual users or all users combined.
+- **Upload Chat Data**: Upload chat data in text format. 📂
+- **User Analysis**: View statistics for individual users or all users combined. 🧑‍🤝‍🧑
 - **Statistics Overview**:
-  - Total Messages
-  - Total Words
-  - Media Shared
-  - Links Shared
+  - Total Messages 📩
+  - Total Words 🗣️
+  - Media Shared 📸
+  - Links Shared 🔗
 - **Visualizations**:
-  - Monthly and Daily Timelines
-  - Activity Maps (Most Busy Days and Months)
-  - Word Cloud
-  - Most Common Words
-  - Emoji Analysis
+  - Monthly and Daily Timelines 📅
+  - Activity Maps (Most Busy Days and Months) 🗺️
+  - Word Cloud ☁️
+  - Most Common Words 📝
+  - Emoji Analysis 😃
 
-## Hosted Version
+## Hosted Version 🌐
 
 A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://analyzer-chat.streamlit.app/)
 
 
-## How to Use
+## How to Use 🚀
 
 1. **Clone the Repository**
    ```bash
@@ -43,18 +43,18 @@ A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://a
    streamlit run app.py
 5. **Upload and Analyze**:
    - Open your web browser and go to http://localhost:8501.
-   - Navigate to the "Analyze Chat" section and upload your chat file.
-   - Select a user from the dropdown menu to analyze specific data or choose "Overall" to see combined statistics.
+   - Navigate to the "Analyze Chat" section and upload your chat file. 📤
+   - Select a user from the dropdown menu to analyze specific data or choose "Overall" to see combined statistics. 📊
    - Click "Show Analysis" to view the generated statistics and visualizations.
 
-- **Project Structure**:
-  - app.py: Main file for running the Streamlit app
-  - process.py: Script for processing chat data and creating DataFrame.
-  - fetcher.py: Contains functions for fetching and analyzing chat data.
-  - requirements.txt: List of Python dependencies.
-  - stop_hinglish.txt: File containing stop words used for text analysis.
+- **Project Structure**: 🗂️
+  - app.py: Main file for running the Streamlit app 🖥️
+  - process.py: Script for processing chat data and creating DataFrame. 📈
+  - fetcher.py: Contains functions for fetching and analyzing chat data. 📊
+  - requirements.txt: List of Python dependencies. 📜
+  - stop_hinglish.txt: File containing stop words used for text analysis. 🚫
 
-- **Dependencies**:
+- **Dependencies**: 🧩
   The project requires the following Python packages:
   - streamlit
   - pandas
@@ -66,7 +66,7 @@ A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://a
     
   You can install all dependencies using the provided requirements.txt file.
 
-## Contributing
+## Contributing 🤝
 
 1. **Fork the repository.**
    
@@ -74,7 +74,7 @@ A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://a
    ```bash
    git checkout -b feature-branch
 
-3. **Make your changes.**
+3. **Make your changes.** ✏️
    
 4. **Commit your changes:**
    ```bash
@@ -84,6 +84,6 @@ A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://a
    ```bash
    git push origin feature-branch
 
-6. **Open a pull request.**:
+6. **Open a pull request.**: 📥
    
 
