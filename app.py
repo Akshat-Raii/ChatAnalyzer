@@ -61,10 +61,10 @@ if(app_mode=="Home"):
 elif(app_mode=="Analyze Chat"):
     uploaded_file=st.sidebar.file_uploader("Upload your Chat")
     if uploaded_file is not None:
-        bytes_data=uploaded_file.getvalue()
-        data=bytes_data.decode("utf-8")
-        df=process.process(data)
-        # st.dataframe(df)
+        with st.spinner('Processing file... Please wait.'):
+            bytes_data = uploaded_file.getvalue()
+            data = bytes_data.decode("utf-8")
+            df = process.process(data)
 
         
 
@@ -173,16 +173,10 @@ elif(app_mode=="Analyze Chat"):
             st.title("Emoji Analysis")
             col1,col2=st.columns(2)
             emoji_df=fetcher.numEmoji(selected_user,df)
-            # with col1:
+            
             st.dataframe(emoji_df)
 
-            # with col2:
-            #     fig, ax = plt.subplots()
-            #     ax.pie(emoji_df["Count"].head(),labels=emoji_df["Emoji"].head(),autopct="%0.2f")
-                
-                
-            #     st.pyplot(fig)
-
+            
             
 
 
