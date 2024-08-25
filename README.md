@@ -20,7 +20,7 @@ Welcome to the **Chat Analyzer**! This tool is designed to help you analyze and 
 
 ## Hosted Version
 
-A hosted version of the Chat Analyzer is available at: [Chat Analyzer Dashboard](https://analyzer-chat.streamlit.app/)
+A hosted version of the Chat Analyzer is available at: [Chat Analyzer](https://analyzer-chat.streamlit.app/)
 
 
 ## How to Use
